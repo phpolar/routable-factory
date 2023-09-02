@@ -9,6 +9,11 @@
             "email": "e.fortmeyer01@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Phpolar\\RoutableFactory\\": "src/"
+        }
+    },
     "require-dev": {
         "ext-ast": "*",
         "ext-openssl": "*",
