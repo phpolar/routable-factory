@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1fec9c4cef8b5ae47e1334a2b38132f0",
+    "content-hash": "d0d2e0bb0f5c3f14602baad75f9f427c",
     "packages": [
         {
             "name": "phpolar/routable",
-            "version": "2.0.1",
+            "version": "3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpolar/routable.git",
-                "reference": "ebac0e080b948f3c13b5e43d785956091e37a0f2"
+                "reference": "4da7ff0151aae66f9a3c9f48fa8624ca48fb795d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpolar/routable/zipball/ebac0e080b948f3c13b5e43d785956091e37a0f2",
-                "reference": "ebac0e080b948f3c13b5e43d785956091e37a0f2",
+                "url": "https://api.github.com/repos/phpolar/routable/zipball/4da7ff0151aae66f9a3c9f48fa8624ca48fb795d",
+                "reference": "4da7ff0151aae66f9a3c9f48fa8624ca48fb795d",
                 "shasum": ""
             },
             "require": {
@@ -39,9 +39,9 @@
             "description": "Supports route handling interoperability.",
             "support": {
                 "issues": "https://github.com/phpolar/routable/issues",
-                "source": "https://github.com/phpolar/routable/tree/2.0.1"
+                "source": "https://github.com/phpolar/routable/tree/3.0.0"
             },
-            "time": "2024-12-01T20:09:34+00:00"
+            "time": "2025-06-05T03:30:16+00:00"
         }
     ],
     "packages-dev": [
