@@ -26,7 +26,7 @@
     },
     "require": {
         "php": ">=8.1",
-        "phpolar/routable": "^2.0"
+        "phpolar/routable": "^3.0"
     },
     "license": "MIT",
     "scripts": {
